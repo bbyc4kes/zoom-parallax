@@ -1,7 +1,15 @@
 
-# Fancy Zoom Parallax Animation
+# <p align="center">Fancy Zoom Parallax Animation</p>
 
-This project showcases a fancy zoom parallax animation implemented using plain CSS and [Framer Motion](https://www.framer.com/motion/). The animation provides a smooth and visually appealing effect that enhances user interaction and engagement.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black&color=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&labelColor=000000&color=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&labelColor=black&color=0055FF)
+![Static Badge](https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=Sass&labelColor=black&color=rgb(204%2C%20102%2C%20153))
+![Static Badge](https://img.shields.io/badge/Lenis-FFFFFF?style=for-the-badge&logo=Lenis&labelColor=black&color=rgb(191%2C%2079%2C%20116))
+
+![image](https://github.com/bbyc4kes/zoom-parallax/assets/153362892/8456513d-0d14-4a22-abb3-3ebe34a58b93)
+
+### This project showcases a fancy zoom parallax animation implemented using plain CSS and [Framer Motion](https://www.framer.com/motion/). The animation provides a smooth and visually appealing effect that enhances user interaction and engagement.
 
 
 ## Features
